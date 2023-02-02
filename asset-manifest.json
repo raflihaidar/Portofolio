@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Second-CV/static/css/main.4842c3cc.css",
+    "main.js": "/Second-CV/static/js/main.7c1cbeb3.js",
+    "static/media/starbucks.png": "/Second-CV/static/media/starbucks.3c19dc7fe9ce503ec6e0.png",
+    "static/media/booking-store.png": "/Second-CV/static/media/booking-store.35ac210165c9b8a21bce.png",
+    "static/media/online-store.png": "/Second-CV/static/media/online-store.5a57aabb5f1dbdad70c0.png",
+    "static/media/note-app.png": "/Second-CV/static/media/note-app.de10102884b8535ec596.png",
+    "static/media/hero1.png": "/Second-CV/static/media/hero1.c16fc191a014c08399d6.png",
+    "static/media/myphoto.png": "/Second-CV/static/media/myphoto.8e21ef08780626a9d53e.png",
+    "index.html": "/Second-CV/index.html",
+    "main.4842c3cc.css.map": "/Second-CV/static/css/main.4842c3cc.css.map",
+    "main.7c1cbeb3.js.map": "/Second-CV/static/js/main.7c1cbeb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4842c3cc.css",
+    "static/js/main.7c1cbeb3.js"
+  ]
+}
