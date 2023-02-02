@@ -10,10 +10,10 @@ const About = () => {
     {name : "C"},
   ]
   return (
-    <div className='w-4/5 m-auto text-center py-56' id='About'>
-        <div className='text-3xl font-semibold mb-5'>About Me</div>
+    <div className='w-4/5  m-auto text-center py-56' id='About'>
+        <div className='text-3xl  font-semibold mb-5'>About Me</div>
         <div className='flex flex-col xl:flex-row md:justify-evenly items-center gap-5 md:align-middle'>
-          <div className="w-4/3 hidden md:block">
+          <div className="w-4/3 hidden md:block grayscale hover:grayscale-0 ease-out duration-300">
             <img src={MyPhoto} alt="gambar" />
           </div>
           <div className='text-justify md:w-1/3'>
