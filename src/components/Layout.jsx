@@ -5,6 +5,7 @@ import Dashbord from './Dashbord';
 import Navbar from './navbar'
 import Project from './Project'
 import Footer from './footer'
+import Skills from './Skills';
 
 const Layout = () => {
   return (
@@ -12,6 +13,7 @@ const Layout = () => {
         <Navbar/>
         <Dashbord/>
         <About/>
+        <Skills/>
         <Project/>
         <Contact/>
         <Footer/>
