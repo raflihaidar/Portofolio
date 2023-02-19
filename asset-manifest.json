@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Second-CV/static/css/main.47b7f0a9.css",
-    "main.js": "/Second-CV/static/js/main.df4d29fd.js",
+    "main.css": "/Second-CV/static/css/main.55878b53.css",
+    "main.js": "/Second-CV/static/js/main.9a2cc14d.js",
     "static/media/starbucks.png": "/Second-CV/static/media/starbucks.3c19dc7fe9ce503ec6e0.png",
     "static/media/booking-store.png": "/Second-CV/static/media/booking-store.35ac210165c9b8a21bce.png",
     "static/media/online-store.png": "/Second-CV/static/media/online-store.5a57aabb5f1dbdad70c0.png",
@@ -9,11 +9,11 @@
     "static/media/hero1.png": "/Second-CV/static/media/hero1.c16fc191a014c08399d6.png",
     "static/media/myphoto.png": "/Second-CV/static/media/myphoto.8e21ef08780626a9d53e.png",
     "index.html": "/Second-CV/index.html",
-    "main.47b7f0a9.css.map": "/Second-CV/static/css/main.47b7f0a9.css.map",
-    "main.df4d29fd.js.map": "/Second-CV/static/js/main.df4d29fd.js.map"
+    "main.55878b53.css.map": "/Second-CV/static/css/main.55878b53.css.map",
+    "main.9a2cc14d.js.map": "/Second-CV/static/js/main.9a2cc14d.js.map"
   },
   "entrypoints": [
-    "static/css/main.47b7f0a9.css",
-    "static/js/main.df4d29fd.js"
+    "static/css/main.55878b53.css",
+    "static/js/main.9a2cc14d.js"
   ]
 }
