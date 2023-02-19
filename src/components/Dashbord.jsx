@@ -3,7 +3,7 @@ import hero from "../img/hero1.png";
 
 const Dashbord = () => {
   return (
-    <div className="pt-40 w-4/5 mx-auto flex justify-between p-7 items-center ">
+    <div className="pt-40 w-4/5 my-auto  flex justify-between p-7 items-center">
       <div className="text-5xl font-bold text-black-100 xl:w-3/5 ml-10">
         Hi. I'm <span className="text-red-700">Ralph.</span> A Web Developer
       </div>
