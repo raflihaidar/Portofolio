@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Second-CV/static/css/main.fbe0862a.css",
-    "main.js": "/Second-CV/static/js/main.d9b4eda1.js",
-    "static/media/starbucks.png": "/Second-CV/static/media/starbucks.3c19dc7fe9ce503ec6e0.png",
-    "static/media/booking-store.png": "/Second-CV/static/media/booking-store.35ac210165c9b8a21bce.png",
-    "static/media/online-store.png": "/Second-CV/static/media/online-store.5a57aabb5f1dbdad70c0.png",
-    "static/media/weather.png": "/Second-CV/static/media/weather.a8ca12d26e010e210cc0.png",
-    "static/media/hero1.png": "/Second-CV/static/media/hero1.c16fc191a014c08399d6.png",
-    "static/media/myphoto.png": "/Second-CV/static/media/myphoto.8e21ef08780626a9d53e.png",
-    "index.html": "/Second-CV/index.html",
-    "main.fbe0862a.css.map": "/Second-CV/static/css/main.fbe0862a.css.map",
-    "main.d9b4eda1.js.map": "/Second-CV/static/js/main.d9b4eda1.js.map"
+    "main.css": "/Portofolio/static/css/main.fbe0862a.css",
+    "main.js": "/Portofolio/static/js/main.d93d268b.js",
+    "static/media/starbucks.png": "/Portofolio/static/media/starbucks.3c19dc7fe9ce503ec6e0.png",
+    "static/media/booking-store.png": "/Portofolio/static/media/booking-store.35ac210165c9b8a21bce.png",
+    "static/media/online-store.png": "/Portofolio/static/media/online-store.5a57aabb5f1dbdad70c0.png",
+    "static/media/weather.png": "/Portofolio/static/media/weather.a8ca12d26e010e210cc0.png",
+    "static/media/hero1.png": "/Portofolio/static/media/hero1.c16fc191a014c08399d6.png",
+    "static/media/myphoto.png": "/Portofolio/static/media/myphoto.8e21ef08780626a9d53e.png",
+    "index.html": "/Portofolio/index.html",
+    "main.fbe0862a.css.map": "/Portofolio/static/css/main.fbe0862a.css.map",
+    "main.d93d268b.js.map": "/Portofolio/static/js/main.d93d268b.js.map"
   },
   "entrypoints": [
     "static/css/main.fbe0862a.css",
-    "static/js/main.d9b4eda1.js"
+    "static/js/main.d93d268b.js"
   ]
 }
