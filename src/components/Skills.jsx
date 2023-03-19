@@ -25,7 +25,7 @@ LinearProgressWithLabel.propTypes = {
 export default function LinearWithValueLabel() {
   const skills = [
     {
-      name: " Vanila js",
+      name: " Vanilla js",
       progress: 90,
     },
     {
